@@ -1,0 +1,31 @@
+_repo: The-Land-of-ContrastsA-Briton-s-View-of-His-American-Kin_17648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Muirhead, James F. (James Fullarton)
+    alias: Muirhead, James Fullarton
+    birthdate: 1853
+    deathdate: 1934
+    gutenberg_agent_id: '7517'
+    url: http://www.gutenberg.org/2009/agents/7517
+description: ''
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17648'
+  lccn: '98000923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'National characteristics, American'
+- !lcsh 'United States -- Civilization'
+- !lcc 'E151'
+title: 'The Land of Contrasts: A Briton''s View of His American Kin'
+url: http://www.gutenberg.org/ebooks/17648
