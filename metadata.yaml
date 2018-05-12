@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7517'
     url: http://www.gutenberg.org/2009/agents/7517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17648#The-Land-of-ContrastsA-Briton-s-View-of-His-American-Kin
 gutenberg_issued: '2006-01-31'
 gutenberg_type: Text
 identifiers:
